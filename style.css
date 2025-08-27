@@ -1,0 +1,12 @@
+body { display: flex; height: 100vh; margin: 0; font-family: sans-serif; }
+#toolbar { position: fixed; top: 5px; left: 5px; background: #eee; padding: 5px; }
+#canvas { flex: 1; position: relative; background: #f9f9f9; }
+.module {
+  position: absolute; 
+  padding: 6px 10px; 
+  background: #cce5ff; 
+  border: 1px solid #004085; 
+  border-radius: 4px; 
+  cursor: grab;
+}
+#sidebar { width: 300px; border-left: 1px solid #ccc; padding: 10px; }
