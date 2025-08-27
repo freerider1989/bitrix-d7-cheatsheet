@@ -1,5 +1,6 @@
 let modules = [
   {id:1, name:"main", description:"Ядро Bitrix", example:"Loader::includeModule('main');", x:50, y:50},
+  {id:1, name:"main", description:"Ядро Bitrix", example:"Loader::includeModule('main');", x:100, y:100},
   {id:2, name:"crm", description:"CRM сделки и контакты", example:"use Bitrix.Crm.DealTable;", x:200, y:100}
 ];
 
