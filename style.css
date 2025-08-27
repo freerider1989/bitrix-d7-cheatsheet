@@ -4,8 +4,8 @@ body { display: flex; height: 100vh; margin: 0; font-family: sans-serif; }
 .module {
   position: absolute; 
   padding: 6px 10px; 
-  background: #cce5ff; 
-  border: 1px solid #004085; 
+  background: #ee34c6; 
+  border: 1px solid #850000; 
   border-radius: 4px; 
   cursor: grab;
 }
